@@ -1,4 +1,37 @@
-## Hi there 👋
+> 🚀 Focused on mastering real-world DevOps | Building with Cloud, Containers & Code 🛠️
+
+# 👋 Hey there! I'm DARSHAN B SUTTAKOTI
+
+---
+
+## 🧠 About Me
+
+🚀 DevOps Enthusiast | Cloud & Automation Learner  
+🎯 Passionate about building reliable infrastructure and mastering real-world DevOps tools
+
+---
+
+## 🔧 Tools & Technologies I'm Learning
+
+- 🐧 Linux, Shell Scripting
+- ☁️ AWS (EC2, S3, IAM, VPC)
+- 🐳 Docker, Kubernetes
+- 🔧 Terraform, Ansible, Jenkins
+- 🛠️ GitHub Actions, CI/CD
+- 📈 Observability, AIOps, FinOps
+
+---
+
+## 📊 GitHub Stats
+
+![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=darshan-bs-2005&show_icons=true&theme=radical)
+
+---
+
+### 🔗 Let's Connect
+
+I’m open to collaborating on Cloud & DevOps projects.  
+Feel free to follow, star, or reach out!
 
 <!--
 **darshan-bs-2005/darshan-bs-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
