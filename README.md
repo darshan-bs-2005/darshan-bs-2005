@@ -33,8 +33,7 @@
 I’m open to collaborating on Cloud & DevOps projects.  
 Feel free to follow, star, or reach out!
 
-linkedin : https://www.linkedin.com/in/darshan-b-suttakoti-585172239?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-
+Email : darshanbs189@gmail.com
 <!--
 **darshan-bs-2005/darshan-bs-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
