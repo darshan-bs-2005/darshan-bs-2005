@@ -6,7 +6,7 @@
 
 ## 🧠 About Me
 
-🚀 DevOps Enthusiast | Cloud & Automation Learner  
+🚀 DevOps Enthusiast | Cloud & Automation Engineer 
 🎯 Passionate about building reliable infrastructure and mastering real-world DevOps tools
 
 ---
