@@ -22,9 +22,9 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Darshan's GitHub Stats
 
-![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=darshan-bs-2005&show_icons=true&theme=radical)
+![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=darshan-bs-2005&show_icons=true&include_all_commits=true&theme=radical)
 
 ---
 
