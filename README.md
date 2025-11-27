@@ -21,7 +21,8 @@
 - 📈 Observability, AIOps, FinOps
 
 ## 🏆 Achievement
-<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80px" />
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="120px">
+
 
 ---
 ### 🔗 Let's Connect
